@@ -91,11 +91,11 @@ img { width: 100%; height: auto;}
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 110px;
-	background-image: url("images/headerlogo.jpg");
+	background-image: url("headerlogo.jpg");
 }
 
 #headlogo:hover {
-	background-image: url("images/motion.gif");
+	background-image: url("motion.gif");
 }
 
 h1 {
