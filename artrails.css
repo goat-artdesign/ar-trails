@@ -1,11 +1,11 @@
 @font-face {
 	font-family: gilroy;
-	src: url(fonts/Gilroy-Bold.ttf);
+	src: url(Gilroy-Bold.ttf);
 	font-weight: bold;
 }
 @font-face {
 	font-family: gilroy;
-	src: url(fonts/Gilroy-Regular.ttf);
+	src: url(Gilroy-Regular.ttf);
 	font-weight: normal;
 }
 /*
@@ -19,19 +19,19 @@
 */
 @font-face {
 	font-family: gilroy;
-	src: url(fonts/Gilroy-Light.ttf);
+	src: url(Gilroy-Light.ttf);
 	font-weight: 300;
 }
 
 @font-face {
 	font-family: gilroy;
-	src: url(fonts/Gilroy-SemiBold.ttf);
+	src: url(Gilroy-SemiBold.ttf);
 	font-weight: 550;
 }
 
 @font-face {
 	font-family: gilroy;
-	src: url(fonts/Gilroy-Black.ttf);
+	src: url(Gilroy-Black.ttf);
 	font-weight: 900;
 }
 
